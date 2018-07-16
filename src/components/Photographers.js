@@ -36,7 +36,7 @@ class Photographers extends React.Component {
           <Container>
             <Header as='h3' textAlign="center">Photographers</Header>
             <div className='pickPrice'>
-              <p>Sort by price to make things easier!</p>
+              <p>organiza pela preço!</p>
               <Dropdown
                 placeholder="Filter by category"
                 selection
